@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1735864912 source:c:\users\moham\onedrive\desktop\codeblocksctemp\data\project3datastructure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

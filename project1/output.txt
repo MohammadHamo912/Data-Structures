@@ -1,0 +1,9 @@
+Result Polynomial 1: for Multiplication Operation
+34936x^23-2944x^14+25856x^20-4864x^11-2274x^22-12144x^13-29702x^25+6176x^16-4538x^24+16976x^15+8522x^27+2304x^18+3263x^26-416x^17-4736x^9-3072x^6-1728x^8-22020x^21+1440x^12+22288x^28+30736x^19+6016x^10+7296x^7+26348x^29-20370x^30+32823x^32+7308x^31-25830x^34-19026x^33+2016x^35+2520x^36
+
+Result Polynomial 2: for Subtraction Operation
+-3x^2+4x^3x^9-16x^4-14x^5+10x^7-16
+
+Result Polynomial 3: for Addition Operation
+7x^2-10x^3+17x^9+16x^4+14x^5-10x^7+16
+
